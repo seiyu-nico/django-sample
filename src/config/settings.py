@@ -39,6 +39,9 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'apps.hoge',
     'apps.foo',
+    
+    'commands.ham',
+    'commands.spam',
 ]
 
 MIDDLEWARE = [
